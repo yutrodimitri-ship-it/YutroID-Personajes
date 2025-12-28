@@ -1,0 +1,7 @@
+# ComfyUI-YutroID Requirements
+# Este custom node NO requiere dependencias adicionales
+# Funciona con la instalación base de ComfyUI
+
+# Si en el futuro necesitas agregar dependencias, descomenta y agrega aquí:
+# torch>=2.0.0
+# numpy>=1.24.0
