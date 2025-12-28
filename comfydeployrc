@@ -1,8 +1,0 @@
-{
-  "name": "YutroID-Personajes",
-  "description": "Generador de prompts para personajes chilenos diversos",
-  "version": "3.3.1",
-  "author": "Yutro Team",
-  "license": "MIT",
-  "repository": "https://github.com/yutrodimitri-ship-it/YutroID-Personajes"
-}
