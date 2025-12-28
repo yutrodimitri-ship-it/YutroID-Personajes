@@ -1,9 +1,16 @@
 [project]
-name = "comfyui-yutroid-personajes"
-description = "Generador de prompts detallados para personajes chilenos diversos en ComfyUI"
+name = "yutroid-personajes"
 version = "3.3.1"
+description = "Generador de prompts detallados para personajes chilenos diversos en ComfyUI"
 license = {text = "MIT"}
 requires-python = ">=3.8"
+classifiers = [
+    "Operating System :: OS Independent"
+]
 
 [project.urls]
 Repository = "https://github.com/yutrodimitri-ship-it/YutroID-Personajes"
+
+[tool.comfy]
+PublisherId = "yutrodimitri-ship-it"
+DisplayName = "Yutro ID Generator - Chilean Characters"
